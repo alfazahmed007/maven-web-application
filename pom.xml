@@ -97,15 +97,15 @@
 	
 	    <repository>
 	      <id>jfrog</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>maven-we-app-repo</name>
+	      <url>http://localhost:8046/ui/admin/repositories/local/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
+	   <!-- <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://localhost:8046/ui/admin/repositories/local/</url>
-	    </snapshotRepository>
+	    </snapshotRepository> -->
 	    
 	</distributionManagement>
 	
